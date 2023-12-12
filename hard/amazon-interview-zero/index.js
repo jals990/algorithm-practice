@@ -21,7 +21,7 @@ function maxSetSize(array) {
   return result.length
 }
 
-// let riceBags1 = [1,5,2];
-let riceBags1 = [3, 1, 3, 5];
-console.log(maxSetSize(riceBags1));
+// let arr = [1,5,2];
+let arr = [3, 1, 3, 5];
+console.log(maxSetSize(arr));
 
